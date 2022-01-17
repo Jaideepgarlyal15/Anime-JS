@@ -1,0 +1,12 @@
+$primary-color: rgb(39, 29, 179);
+
+body{
+    margin: 0%;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: $primary-color;
+    margin: 2rem;
+}
